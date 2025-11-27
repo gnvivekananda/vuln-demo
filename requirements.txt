@@ -1,0 +1,4 @@
+flask==0.10
+requests==2.19.0
+pyyaml==3.10
+# All above versions contain known vulnerabilities
