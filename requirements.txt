@@ -2,3 +2,4 @@ flask==0.10
 requests==2.19.0
 pyyaml==3.10
 # All above versions contain known vulnerabilities
+werkzeug>=3.1.4 # not directly required, pinned by Snyk to avoid a vulnerability
