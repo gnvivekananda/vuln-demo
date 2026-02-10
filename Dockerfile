@@ -1,4 +1,4 @@
-FROM python:3.6
+FROM python:3.14.3
 # ❌ Outdated Python version with known CVEs
 
 WORKDIR /app
